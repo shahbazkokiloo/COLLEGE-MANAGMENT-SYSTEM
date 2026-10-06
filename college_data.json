@@ -1,0 +1,15 @@
+{
+    "students": [],
+    "teachers": [],
+    "courses": [
+        {
+            "id": "CRS001",
+            "name": "bca",
+            "duration": "4 years",
+            "department": "computer applications"
+        }
+    ],
+    "attendance": [],
+    "results": [],
+    "fees": []
+}
